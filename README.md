@@ -1,16 +1,61 @@
-### Hi there 👋
 
-<!--
-**Louislam09/Louislam09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ICONS -->
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=f0e736&color=03254c)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=61DBFB&color=03254c)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=f0e736&color=03254c)
+![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=c-sharp&logoColor=white&color=03254c)
 
-Here are some ideas to get you started:
+# 👋 NPM START
+    const smileFace = '😁';
+    const greetingHand = '👋'; 
+    
+    console.log({
+        greeting: 
+            `Hi there ${greetingHand}! \n
+            My name Luis Martinez!,
+            I am a young man who is passionate
+            about this universe of programming,
+            just like who reads this ${smileFace}.`
+    });
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 COOL STUFF 
+
+
+<a href="https://louislam09.github.io/NumberPuzzle/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Louislam09&repo=song-lyrics-react-app&title_color=37d251&text_color=c9cacc&icon_color=FDFD59&bg_color=03254c" />
+</a>  
+
+<br>
+<br>
+
+
+<a href="https://louislam09.github.io/NumberPuzzle/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Louislam09&repo=NumberPuzzle&title_color=37d251&text_color=c9cacc&icon_color=FDFD59&bg_color=03254c" />
+</a>  
+
+<br>
+<br>
+
+<a href="https://louislam09.github.io/NumberPuzzle/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Louislam09&repo=connect-four&title_color=37d251&text_color=c9cacc&icon_color=FDFD59&bg_color=03254c" />
+</a>  
+
+<br>
+<br>
+
+# 📊 GIBHUB STATS
+
+<a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louislam09&hide=java,html&title_color=37d251&text_color=c9cacc&icon_color=FDFD59&bg_color=03254c">
+</a>
+<a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Louislam09&show_icons=true&line_height=27&count_private=true&title_color=37d251&text_color=c9cacc&icon_color=FDFD59&bg_color=03254c">
+</a>
+
+<a href="https://github.com/Louislam09/DominicanID">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Louislam09&repo=DominicanID&title_color=37d251&text_color=c9cacc&icon_color=FDFD59&bg_color=03254c" />
+</a>
+
+<a href="https://github.com/Louislam09/TodoList-WebApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Louislam09&repo=TodoList-WebApp&title_color=37d251&text_color=c9cacc&icon_color=FDFD59&bg_color=03254c" />
+</a>
