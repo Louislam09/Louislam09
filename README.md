@@ -21,7 +21,7 @@
 # 💻 COOL STUFF 
 
 
-<a href="https://louislam09.github.io/NumberPuzzle/">
+<a href="https://github.com/Louislam09/song-lyrics-react-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Louislam09&repo=song-lyrics-react-app&title_color=37d251&text_color=c9cacc&icon_color=FDFD59&bg_color=03254c" />
 </a>  
 
@@ -36,7 +36,7 @@
 <br>
 <br>
 
-<a href="https://louislam09.github.io/NumberPuzzle/">
+<a href="https://connect-four-09.herokuapp.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Louislam09&repo=connect-four&title_color=37d251&text_color=c9cacc&icon_color=FDFD59&bg_color=03254c" />
 </a>  
 
