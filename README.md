@@ -29,7 +29,7 @@
 <br>
 
 
-<a href="https://louislam09.github.io/NumberPuzzle/">
+<a href="https://number-puzzle-game.herokuapp.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Louislam09&repo=NumberPuzzle&title_color=37d251&text_color=c9cacc&icon_color=FDFD59&bg_color=03254c" />
 </a>  
 
