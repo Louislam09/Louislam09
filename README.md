@@ -46,16 +46,15 @@
 # 📊 GIBHUB STATS
 
 <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louislam09&hide=java,html&title_color=37d251&text_color=c9cacc&icon_color=FDFD59&bg_color=03254c">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louislam09&hide=,html&title_color=37d251&text_color=c9cacc&icon_color=FDFD59&bg_color=03254c">
 </a>
+&nbsp;&nbsp;
 <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Louislam09&show_icons=true&line_height=27&count_private=true&title_color=37d251&text_color=c9cacc&icon_color=FDFD59&bg_color=03254c">
 </a>
-
+<br>
+<br>
 <a href="https://github.com/Louislam09/DominicanID">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Louislam09&repo=DominicanID&title_color=37d251&text_color=c9cacc&icon_color=FDFD59&bg_color=03254c" />
 </a>
 
-<a href="https://github.com/Louislam09/TodoList-WebApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Louislam09&repo=TodoList-WebApp&title_color=37d251&text_color=c9cacc&icon_color=FDFD59&bg_color=03254c" />
-</a>
